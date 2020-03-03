@@ -358,6 +358,7 @@
               <name>1|8</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">150</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -368,6 +369,7 @@
               <name>1|11</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">7</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -378,6 +380,7 @@
               <name>1|12</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">1000</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -388,6 +391,7 @@
               <name>1|13</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;No&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -413,6 +417,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
+            <rawValue class="string">Parking violation</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -423,6 +428,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">10</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -433,6 +439,7 @@
               <name>1|6</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;parking&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -463,6 +470,7 @@
               <name>1|11</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">1</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -473,6 +481,7 @@
               <name>1|12</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">100</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -483,6 +492,7 @@
               <name>1|13</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;No&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -508,6 +518,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
+            <rawValue class="string">DUI violation</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -518,6 +529,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">10</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -528,6 +540,7 @@
               <name>1|6</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;driving under the influence&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -558,6 +571,7 @@
               <name>1|11</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">5</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -568,6 +582,7 @@
               <name>1|12</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">1000</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -578,6 +593,7 @@
               <name>1|13</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;No&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -603,6 +619,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
+            <rawValue class="string">Driver suspended</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -613,6 +630,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">15</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -623,6 +641,7 @@
               <name>1|6</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;speed&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -633,6 +652,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">100</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -643,6 +663,7 @@
               <name>1|8</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">140</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -653,6 +674,7 @@
               <name>1|11</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">7</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -663,6 +685,7 @@
               <name>1|12</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">1000</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -673,6 +696,7 @@
               <name>1|13</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;Yes&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
